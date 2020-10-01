@@ -18,17 +18,18 @@ Utilizando HTML5, CSS, NODE E SQLITE
 </p>
 
 <h2><strong>Tecnologias<strong></h2>
- HTML 5
- CSS 3
- JavaScipt
- SQLite
+ 
+* HTML 5
+* CSS 3
+* JavaScipt
+* SQLite
   
   <h1>Ferramentas utilizadas</h1>
- Node.js
- Nunjucks
- SQLite
- Figma
- Express
+* Node.js
+* Nunjucks
+* SQLite
+* Figma
+* Express
 
   
 
