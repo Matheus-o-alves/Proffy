@@ -17,7 +17,7 @@ Utilizando HTML5, CSS, NODE E SQLITE
   <img src="https://user-images.githubusercontent.com/65368831/94774137-9f24d880-0393-11eb-851e-0163951341d0.png" width="600" />
 </p>
 
-<h2><strong>Tecnologias<strong></h2>
+<h1><strong>Tecnologias<strong></h1>
  
 * HTML 5
 * CSS 3
