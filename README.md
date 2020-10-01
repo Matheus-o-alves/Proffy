@@ -1,5 +1,5 @@
 <h1> Proffy </h1>
-<h4> Proffy foi um projeto desenvolvido na Next Level Week promovido pela Rocketseat
+<p> Proffy foi um projeto desenvolvido na Next Level Week promovido pela Rocketseat
   
   A proposta fo projeto foi desenvolver uma plataforma que reúne professores e alunos através de uma interface gráfica simples, dinâmica e responsiva, contendo:
 
@@ -9,26 +9,26 @@ Página de Pesquisa de Proffys(Destinada aos Alunos): Onde você pode pesquisar 
 
 Utilizando HTML5, CSS, NODE E SQLITE
 
- </h2>
+ </p>
 
 
 </p>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/65368831/94774137-9f24d880-0393-11eb-851e-0163951341d0.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/65368831/94774137-9f24d880-0393-11eb-851e-0163951341d0.png" width="600" />
 </p>
 
 <h2><strong>Tecnologias<strong></h2>
-white_check_mark HTML 5
-white_check_mark CSS 3
-white_check_mark JavaScipt
-white_check_mark SQLite
+ HTML 5
+ CSS 3
+ JavaScipt
+ SQLite
   
   <h1>Ferramentas utilizadas</h1>
-white_check_mark Node.js
-white_check_mark Nunjucks
-white_check_mark SQLite
-white_check_mark Figma
-white_check_mark Express
+ Node.js
+ Nunjucks
+ SQLite
+ Figma
+ Express
 
   
 
