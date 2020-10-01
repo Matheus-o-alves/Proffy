@@ -1,7 +1,7 @@
 <h1> Proffy </h1>
 <p> Proffy foi um projeto desenvolvido na Next Level Week promovido pela Rocketseat
   
-  A proposta fo projeto foi desenvolver uma plataforma que reúne professores e alunos através de uma interface gráfica simples, dinâmica e responsiva, contendo:
+  A proposta do evento foi desenvolver uma plataforma que reúne professores e alunos através de uma interface gráfica simples, dinâmica e responsiva, contendo:
 
 Página de Cadastro de Proffys(Professores): Onde você pode se cadastrar e oferecer aulas colocando o valor e adicionando horarios (dia/hora) da semana que você estará disponível
 
