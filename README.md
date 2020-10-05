@@ -13,8 +13,8 @@ Utilizando HTML5, CSS, NODE E SQLITE
 
 
 </p>
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/65368831/94774137-9f24d880-0393-11eb-851e-0163951341d0.png" width="600" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65368831/95040833-44e58980-06ab-11eb-9687-601273df2102.gif" width="600" />
 </p>
 
 <h1><strong>Tecnologias<strong></h1>
