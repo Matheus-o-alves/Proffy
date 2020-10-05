@@ -14,7 +14,7 @@ Utilizando HTML5, CSS, NODE E SQLITE
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65368831/95040833-44e58980-06ab-11eb-9687-601273df2102.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/65368831/95040833-44e58980-06ab-11eb-9687-601273df2102.gif" width="400" />
 </p>
 
 <h1><strong>Tecnologias<strong></h1>
