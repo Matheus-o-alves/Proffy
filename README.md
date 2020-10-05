@@ -21,7 +21,7 @@ Utilizando HTML5, CSS, NODE E SQLITE
  
 * HTML 5
 * CSS 3
-* JavaScipt
+* JavaScript
 * SQLite
   
   <h1>Ferramentas utilizadas</h1>
